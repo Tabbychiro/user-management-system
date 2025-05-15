@@ -1,2 +1,3 @@
 # user-management-system
-side project
+
+A side project for a User Management System using Spring Framework.
